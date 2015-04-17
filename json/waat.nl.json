@@ -1,0 +1,1 @@
+{"nodes":[{"name":"facebook.com","group":0},{"name":"facebook.net","group":2},{"name":"waat.nl","group":2}],"links":[{"source":0,"target":2,"value":1},{"source":1,"target":2,"value":7},{"source":2,"target":2,"value":7}]}

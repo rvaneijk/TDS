@@ -1,0 +1,1 @@
+{"nodes":[{"name":"baynote.net","group":1},{"name":"bol.com","group":0},{"name":"opinionbar.com","group":2},{"name":"s-bol.com","group":2}],"links":[{"source":0,"target":1,"value":4},{"source":1,"target":1,"value":1},{"source":2,"target":1,"value":7},{"source":3,"target":1,"value":7},{"source":3,"target":3,"value":7}]}
